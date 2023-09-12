@@ -18,6 +18,3 @@
 • 💬 Ask me about <b>Full Stack</b>.<br/>
 • 📫 Reach me out <a href="https://www.instagram.com/l_.ee.l_a/"><b>@l_.ee.l_a</b></a><br/>
 </span>
-
-<br />
-<br />
