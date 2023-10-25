@@ -16,5 +16,5 @@
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/l_.ee.l_a/"><b>@l_.ee.l_a</b></a><br/>
+• 📫 Reach me out <a href="https://www.instagram.com/l_ee.la_/"><b>@l_ee.la_</b></a><br/>
 </span>
