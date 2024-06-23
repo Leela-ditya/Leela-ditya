@@ -4,7 +4,7 @@
 
 **I am a self-taught Full-stack web developer from India.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
-<br/><br/>I also love the logic and structure of coding and always strive to write efficient code, whether it be HTML, CSS, or JavaScript.
+<br/><br/>I also love the logic and structure of coding and always strive to write efficient code, whether it be HTML, CSS, JavaScript, Bootstrap & React Js.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
 <br />
