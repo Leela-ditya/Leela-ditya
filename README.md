@@ -1,20 +1,41 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
+# Leeladitya G - QA Automation Engineer
 
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/leeladitya-g-126172382/)
+[![Email](https://img.shields.io/badge/Email-leelasonu12@gmail.com-red?logo=gmail)](mailto:leelasonu12@gmail.com)
 
-**I am a self-taught Full-stack web developer from India.**
-<br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
-<br/><br/>I also love the logic and structure of coding and always strive to write efficient code, whether it be HTML, CSS, JavaScript, Bootstrap & React Js.
+---
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
-<br />
+## 👨‍💻 About Me
+I am a **QA Automation Engineer** with hands-on experience in **Selenium (Java) **, ** Playwright (JavaScript/TypeScript) **, ** Testsigma**, and designing **test automation frameworks**. Passionate about delivering high-quality software with optimised automation solutions.
 
-## Fun Fact 🎈:
+- 🔹 Skilled in Web & API Testing, Regression Automation, and Continuous Integration.
+- 🔹 Strong knowledge of Agile QA methodologies and CI/CD pipelines.
+- 🔹 Experienced in creating **scalable, maintainable automation frameworks**.
 
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+---
 
-• 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/l_ee.la_/"><b>@l_ee.la_</b></a><br/>
-</span>
+## 🛠 Skills
+**Automation Tools & Frameworks:** Selenium, Playwright, Testsigma, TestNG, JUnit, Maven, Jenkins  
+**Languages:** Java, JavaScript, TypeScript  
+**Testing:** Web Testing, API Testing, Regression Testing, End-to-End Testing  
+**Version Control & Collaboration:** Git, GitHub, Jira  
+**Reporting & CI/CD:** Extent Reports, Allure, Jenkins, GitHub Actions  
+
+---
+
+## 🚀 Projects
+
+### 1. E-Commerce Checkout Automation
+- Automated **end-to-end checkout flow** including cart, coupon, and payment.
+- Built **Testsigma automation workflows** to reduce manual testing effort by 40%.
+- Integrated **CI/CD pipelines** for automated execution on each release.
+
+### 2. Multi-Browser Playwright Automation
+- Created **cross-browser tests** for Chromium, Firefox, and WebKit.
+- Implemented **data-driven testing** using JSON datasets.
+- Generated **custom HTML reports** for test execution results.
+
+### 3. Web Form & UI Testing
+- Automated **dynamic web forms** and UI validations.
+- Used **explicit and fluent waits** for stable automation.
+- Ensured **browser compatibility** and responsive UI testing.
