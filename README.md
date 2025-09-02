@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **QA Automation Engineer** with hands-on experience in **Selenium (Java) **, ** Playwright (JavaScript/TypeScript) **, ** Testsigma**, and designing **test automation frameworks**. Passionate about delivering high-quality software with optimised automation solutions.
+I am a **QA Automation Engineer** with hands-on experience in Selenium (Java), Playwright (JavaScript/TypeScript), Testsigma, and designing **test automation frameworks**. Passionate about delivering high-quality software with optimised automation solutions.
 
 - 🔹 Skilled in Web & API Testing, Regression Automation, and Continuous Integration.
 - 🔹 Strong knowledge of Agile QA methodologies and CI/CD pipelines.
